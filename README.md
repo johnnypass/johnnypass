@@ -26,4 +26,14 @@ I’ve written about everything from **experimental radio** to **vintage ska tap
 
 **More about me professionally:** [linkedin.com/in/john-passmore](https://linkedin.com/in/john-passmore)
 
+**Also Me, in Bands**
+
+I’ve played in a few bands over the years—equal parts art project, noise experiment, and metadata case study.
+
+- [**Shrouded Strangers**](https://open.spotify.com/artist/58cjoOHDt29DjVB7MTZYC9) – Slop Rock
+- [**Nethers**](https://open.spotify.com/artist/2a5BrRoYd3nzBkoeF8ZUPx) – Folk I guess!
+- [**Carlsonics**](https://open.spotify.com/artist/2ouBfsiX71lEnc020vd5WN) – Sounds like Midnight Oil
+
+These projects inform how I think about audio, rights metadata, digital distribution, and the cultural shelf life of weird sounds.
+
 Thanks for stopping by!
