@@ -10,6 +10,13 @@ This GitHub is a collection of small experiments, proofs of concept, and cloud f
 - **Data Pipelines & Automation** – cloud functions and scripts for working with APIs like YouTube, Salesforce, and Redshift
 - **Audience Intelligence** – backend support for dashboards, reporting pipelines, and ETL workflows
 
+**Selected Projects**
+- [**Data Visualization Portfolio – Tableau Public**](https://public.tableau.com/app/profile/john.passmore/vizzes)  
+  Dashboards and exploratory visualizations focused on audience insights, content analysis, and platform performance.
+
+- [**Observable Notebook – Music Metadata as Data Product**](https://observablehq.com/d/5faacba230189161)  
+  Interactive prototype exploring structured music metadata from a CMS export—designed to support content discovery and archival reuse.
+
 **Core Skills:**  
 `SQL` · `Python` · `AWS Lambda / Redshift` · `Google Cloud Functions` · `ETL Design` · `Metadata Architecture` · `BI Tools (Tableau, Looker)`
 
