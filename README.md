@@ -15,8 +15,8 @@ This GitHub is a collection of small experiments, proofs of concept, and cloud f
 
 **Also Me:**  
 I’ve written about everything from **experimental radio** to **vintage ska tapes**, mostly for WNYC:  
-🔗 [wnyc.org/people/john-passmore](https://www.wnyc.org/people/john-passmore/)
+[wnyc.org/people/john-passmore](https://www.wnyc.org/people/john-passmore/)
 
-📍 **More about me professionally:** [linkedin.com/in/john-passmore](https://linkedin.com/in/john-passmore)
+**More about me professionally:** [linkedin.com/in/john-passmore](https://linkedin.com/in/john-passmore)
 
 Thanks for stopping by!
