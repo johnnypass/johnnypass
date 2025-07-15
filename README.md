@@ -21,7 +21,7 @@ This GitHub is a collection of small experiments, proofs of concept, and cloud f
 `SQL` · `Python` · `AWS Lambda / Redshift` · `Google Cloud Functions` · `ETL Design` · `Metadata Architecture` · `BI Tools (Tableau, Looker)`
 
 **Also Me:**  
-I’ve written about everything from **experimental radio** to **vintage ska tapes**, mostly for WNYC:  
+I’ve written about everything from **experimental radio** to the **Watergate break in**, mostly for WNYC:  
 [wnyc.org/people/john-passmore](https://www.wnyc.org/people/john-passmore/)
 
 **More about me professionally:** [linkedin.com/in/john-passmore](https://linkedin.com/in/john-passmore)
