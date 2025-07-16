@@ -18,7 +18,7 @@ This GitHub is a collection of small experiments, proofs of concept, and cloud f
   Interactive prototype exploring structured music metadata from a CMS export—designed to support content discovery and archival reuse.
 
 **Core Skills:**  
-`SQL` · `Python` · `AWS Lambda / Redshift` · `Google Cloud Functions` · `ETL Design` · `Metadata Architecture` · `BI Tools (Tableau, Looker)` · `Taxonomy`
+`SQL` · `Python` · `AWS Lambda / Redshift` · `Google Cloud Functions` · `ETL Design` · `Metadata Architecture` · `BI Tools (Tableau, Looker)` · `Taxonomy` · `Archives`
 
 **Also Me:**  
 I’ve written about everything from **experimental radio** to the **Watergate break in**, mostly for WNYC:  
