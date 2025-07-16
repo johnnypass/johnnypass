@@ -1,6 +1,6 @@
 # John Passmore
 
-I'm a Senior Product and Data Leader focused on streaming infrastructure, media distribtuion, archives, metadata, and journalism technology. My work focuses on serving internal stakeholders, external partners, and the public good.
+I'm a Senior Product and Data Leader working on streaming infrastructure, media distribtuion, archives, metadata, and journalism technology. My work focuses on serving internal stakeholders, external partners, and the public good.
 
 I lead teams at New York Public Radio working on audience analytics, audio distritbution systems, and platform integrations. I'm also a trained archivist and time-based media conservator. I occasionally write about cultural memory and the stories that live inside our systems.
 
