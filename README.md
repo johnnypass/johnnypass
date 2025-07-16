@@ -11,11 +11,14 @@ This GitHub is a collection of experiments and proofs of concept, many related t
 - **Audience Intelligence** – backend support for dashboards, reporting pipelines, and ETL workflows
 
 **Selected Projects**
-- [**Data Visualization Portfolio – Tableau Public**](https://public.tableau.com/app/profile/john.passmore/vizzes)  
-  Dashboards and exploratory visualizations focused on audience insights, content analysis, and platform performance.
+- [**Data Visualization – Tableau Public**](https://public.tableau.com/app/profile/john.passmore/vizzes)  
+  Dashboards and exploratory visualizations focused on audience insights, content analysis, and platform performance. 
 
-- [**Observable Notebook – Music Metadata as Data Product**](https://observablehq.com/d/5faacba230189161)  
-  Interactive prototype exploring structured music metadata from a CMS export—designed to support content discovery and archival reuse.
+- [**Observable Notebook**](https://observablehq.com/d/5faacba230189161)  
+  Interactive prototype exploring the evolution of moving image technology since the introduction of television in the home. 
+
+- [**Livestream Metadata Checker**](https://tranquil-kangaroo-be0dff.netlify.app)
+  A vibe coded app that was built for our teams to quickly check implementation of in-band metadata for HLS audio streams for a new audio player.
 
 **Core Skills:**  
 `SQL` · `Python` · `AWS Lambda / Redshift` · `Google Cloud Functions` · `ETL Design` · `Metadata Architecture` · `BI Tools (Tableau, Looker)` · `Taxonomy` · `Archives` · `Digital Asset Management`
