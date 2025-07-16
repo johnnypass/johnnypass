@@ -2,7 +2,7 @@
 
 Hello! 
 
-I'm a Senior Product Director working on streaming infrastructure, media distribtuion, archival access and preservation, and journalism technology. My work focuses on serving internal stakeholders, external partners, and the public good.
+I'm a Senior Product Director working on streaming infrastructure, systems integation, media distribtuion, archival access, and journalism technology. My work focuses on serving internal stakeholders, external partners, and the public good.
 
 I lead teams at New York Public Radio working on audience analytics, audio distritbution systems, and platform integrations. I'm also a trained time-based media conservator, and I occasionally write about cultural memory and the stories that live inside the systems I help build.
 
