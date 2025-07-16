@@ -15,11 +15,11 @@ This GitHub is a collection of experiments and proofs of concept, many related t
 **Selected Projects**
 
 - [**Livestream Metadata Checker**](https://tranquil-kangaroo-be0dff.netlify.app)
-  A vibe coded app that was built for our teams to quickly check implementation of in-band metadata for HLS audio streams for a new audio player.
+  A vibe-coded app for our teams to quickly check implementation of in-band metadata for HLS audio streams for a new audio player.
 - [**Data Visualization – Tableau Public**](https://public.tableau.com/app/profile/john.passmore/vizzes)  
-  Dashboards and exploratory visualizations based on open-source data sets from the VA and Kaggle. 
+  Dashboards and exploratory visualizations based on open-source datasets from the VA and Kaggle. 
 - [**Observable Notebook**](https://observablehq.com/d/5faacba230189161)  
-  Interactive prototype exploring the evolution of moving image technology since the introduction of television in the home. 
+  An interactive prototype exploring the evolution of moving image technology since the introduction of television in the home. 
 
 
 
