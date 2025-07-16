@@ -14,6 +14,8 @@ This GitHub is a collection of experiments and proofs of concept, many related t
 
 **Selected Projects**
 
+- [**PBCore**](https://pbcore.org)
+  Cataloging standard for the description of audiovisual content, a data sharing tool, and much more.
 - [**Livestream Metadata Checker**](https://tranquil-kangaroo-be0dff.netlify.app)
   A vibe-coded app for our teams to quickly check implementation of in-band metadata for HLS audio streams for a new audio player.
 - [**Data Visualization – Tableau Public**](https://public.tableau.com/app/profile/john.passmore/vizzes)  
