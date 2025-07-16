@@ -30,7 +30,8 @@ This GitHub is a collection of experiments and proofs of concept, many related t
 I’ve written about everything from **experimental radio** to the **Watergate break in**, mostly for WNYC:  
 [wnyc.org/people/john-passmore](https://www.wnyc.org/people/john-passmore/)
 
-**More about me professionally:** [linkedin.com/in/john-passmore](https://linkedin.com/in/john-passmore)
+**More about me professionally:** 
+[linkedin.com/in/john-passmore](https://linkedin.com/in/john-passmore)
 
 **Also Me, in Bands**
 
