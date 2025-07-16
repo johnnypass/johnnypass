@@ -1,10 +1,10 @@
 # John Passmore
 
-I'm a Senior Product and Data Leader working at the intersection of metadata, streaming infrastructure, and journalism technology. My work focuses on building systems that turn content into data products: serving internal stakeholders, external partners, and the public good.
+I'm a Senior Product and Data Leader working at the intersection of streaming infrastructure, media distribtuion, archives, metadata and journalism technology. My work focuses on serving internal stakeholders, external partners, and the public good.
 
-I lead teams at New York Public Radio working on livestream analytics, audio metadata systems, and platform integrations. I'm also a trained archivist and conservator, I build data tools, and I occasionally write about cultural memory and the stories that live inside our systems.
+I lead teams at New York Public Radio working on audience analytics, audio distritbution systems, and platform integrations. I'm also a trained archivist and time-based media conservator. I occasionally write about cultural memory and the stories that live inside our systems.
 
-This GitHub is a collection of small experiments, proofs of concept, and cloud functions, many related to:
+This GitHub is a collection of experiments and proofs of concept, many related to:
 
 - **Streaming Audio Infrastructure** – testing live metadata injection, listener analytics, and failover monitoring
 - **Data Pipelines & Automation** – cloud functions and scripts for working with APIs like YouTube, Salesforce, and Redshift
@@ -33,7 +33,5 @@ I’ve played in a few bands over the years: equal parts art project, noise expe
 - [**Shrouded Strangers**](https://open.spotify.com/artist/58cjoOHDt29DjVB7MTZYC9) – Slop Rock
 - [**Nethers**](https://open.spotify.com/artist/2a5BrRoYd3nzBkoeF8ZUPx) – Folk, I guess!
 - [**Carlsonics**](https://open.spotify.com/artist/2ouBfsiX71lEnc020vd5WN) – Sounds like Midnight Oil
-
-These projects inform how I think about audio, rights metadata, digital distribution, and the cultural shelf life of weird sounds.
 
 Thanks for stopping by!
