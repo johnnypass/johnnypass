@@ -37,6 +37,6 @@ I’ve written about everything from **experimental radio** to the **Watergate b
 
 **Also Me, in Bands**
 
-- [**Shrouded Strangers**](https://open.spotify.com/artist/58cjoOHDt29DjVB7MTZYC9) – Slop Rock
-- [**Nethers**](https://open.spotify.com/artist/2a5BrRoYd3nzBkoeF8ZUPx) – Folk Rock
+- [**Shrouded Strangers**](https://open.spotify.com/artist/58cjoOHDt29DjVB7MTZYC9) – Rock Music
+- [**Nethers**](https://open.spotify.com/artist/2a5BrRoYd3nzBkoeF8ZUPx) – Folk Rock Music
 - [**Carlsonics**](https://open.spotify.com/artist/2ouBfsiX71lEnc020vd5WN) – Sounds like Midnight Oil
