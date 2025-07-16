@@ -8,9 +8,9 @@ At New York Public Radio, I lead teams working on audience analytics, audio dist
 
 This GitHub is a collection of experiments and proofs of concept, many related to:
 
-- **Streaming Audio Infrastructure** – testing live metadata injection, listener analytics, and failover monitoring
-- **Data Pipelines & Automation** – cloud functions and scripts for working with APIs like YouTube, Salesforce, and Redshift
-- **Audience Intelligence** – backend support for dashboards, reporting pipelines, and ETL workflows
+- **Streaming Audio Infrastructure** – Testing live metadata injection, listener analytics, and failover monitoring
+- **Data Pipelines & Automation** – Cloud functions and scripts for working with APIs like YouTube, Salesforce, and Redshift
+- **Audience Intelligence** – Backend support for dashboards, reporting pipelines, and ETL workflows
 
 **Selected Projects**
 
