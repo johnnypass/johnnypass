@@ -1,4 +1,4 @@
-# Hi, I'm John Passmore
+# John Passmore
 
 I'm a Senior Product and Data Leader working at the intersection of metadata, streaming infrastructure, and journalism technology. My work focuses on building systems that turn content into data products: serving internal stakeholders, external partners, and the public good.
 
