@@ -14,6 +14,8 @@ This GitHub is a collection of experiments and proofs of concept, many related t
 
 **Selected Projects**
 
+- [**Automated Chart Summaries with Lida + OpenAI}**
+  A project that uses Lida (by Microsoft) and OpenAI to generate plain-language summaries of data visualizations. It explores how AI can make charts easier to understand and support   accessible data storytelling.
 - [**PBCore**](https://pbcore.org)
   A cataloging standard for the description of audiovisual content, a data sharing tool, and much more.
 - [**Livestream Metadata Checker**](https://tranquil-kangaroo-be0dff.netlify.app)
