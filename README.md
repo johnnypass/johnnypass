@@ -14,7 +14,7 @@ This GitHub is a collection of experiments and proofs of concept, many related t
 
 **Selected Projects**
 
-- [**Automated Chart Summaries with Lida + OpenAI**] (https://github.com/johnnypass/Parsons_Data_Viz)
+- [**Automated Chart Summaries with Lida + OpenAI**](https://github.com/johnnypass/Parsons_Data_Viz)
   A project that uses Lida (by Microsoft) and OpenAI to generate plain-language summaries of data visualizations. It explores how AI can make charts easier to understand and support   accessible data storytelling.
 - [**PBCore**](https://pbcore.org)
   A cataloging standard for the description of audiovisual content, a data sharing tool, and much more.
