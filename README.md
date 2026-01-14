@@ -4,7 +4,7 @@ Hello!
 
 I'm a Senior Product Director specializing in streaming infrastructure, systems integration, media distribution, data analytics, archival access, and journalism technology. I focus on building platforms that serve internal teams, external partners, and the public good.
 
-At New York Public Radio, I lead teams working on audience analytics, audio distribution, dynamic ad technology, and platform integrations. I'm also a trained time-based media conservator and occasionally write about cultural memory and the stories living in the systems I help build.
+At New York Public Radio, I lead teams working on audience analytics, audio distribution, dynamic ad technology, and platform integrations. I'm also a trained archivist and occasionally write about cultural memory and the stories living in the systems I help build.
 
 This GitHub is a collection of experiments and proofs of concept, many related to:
 
